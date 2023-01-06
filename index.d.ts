@@ -6,7 +6,7 @@ declare namespace SampleTypes {
   type HelloFunction = (param1: HelloParams) => HelloResponse;
 }
 
-declare const pouet = 46;
+declare const pouet: string;
 
 type Kikoo2 = {
   name: "xxx";
