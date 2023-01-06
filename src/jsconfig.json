@@ -3,6 +3,7 @@
     "module": "ES6",
     "noEmit": true,
     "checkJs": true,
+    "allowJs": true,
     "strict": true
   },
   "exclude": ["node_modules"]
