@@ -1,0 +1,12 @@
+{
+  "name": "test-jsconfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "Julien Bouquillon <julien.bouquillon@sg.social.gouv.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
